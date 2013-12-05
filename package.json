@@ -6,6 +6,10 @@
     "css",
     "stylesheet"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fgnass/sheet.git"
+  },
   "scripts": {
     "test": "./node_modules/.bin/mocha --require should"
   },
